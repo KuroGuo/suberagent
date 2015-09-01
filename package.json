@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/visionmedia/superagent.git"
+    "url": "git://github.com/KuroGuo/suberagent"
   },
   "dependencies": {
     "qs": "2.3.3",
